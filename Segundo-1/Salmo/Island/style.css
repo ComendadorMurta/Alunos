@@ -1,0 +1,26 @@
+body {
+    background-image: url('images/blur-background.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.main-div {
+    background-image: url('images/background.jpg');
+    background-size: 100%;
+    width: 90vw;
+    height: 90vh;
+}
+
+.text-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-size: 100px;
+}
