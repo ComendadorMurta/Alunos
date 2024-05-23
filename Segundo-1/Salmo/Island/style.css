@@ -6,6 +6,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 100px;
+    overflow-x: hidden;
 }
 
 .main-div {
@@ -13,14 +14,38 @@ body {
     background-size: 100%;
     width: 90vw;
     height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 100px;
+}
+
+.banner {
+    margin-top: 20px;
+    width: 30%;
+    height: 80vh;
+}
+
+.items-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.title {
+    font-size: 180px;
+    color: beige;
 }
 
 .text-div {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
 
-.title {
-    font-size: 200px;
+p {
+    font-size: 30px;
 }
