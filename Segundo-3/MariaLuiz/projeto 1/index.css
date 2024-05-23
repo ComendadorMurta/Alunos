@@ -1,0 +1,43 @@
+h1{
+color: aqua;
+background-color: blueviolet;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h2{
+color: antiquewhite;
+background-color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h3{
+color: black;
+background-color: brown;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h4{
+color: chocolate;
+background-color: cadetblue;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h5{
+color: green;
+background-color: fuchsia;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h6{
+color: darkmagenta;
+background-color: peru;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.marquee-container{
+    width: 100%; 
+    overflow: hidden;
+    white-space: nowrap;
+    .marquee-content 
+    display: inline block ;
+}
