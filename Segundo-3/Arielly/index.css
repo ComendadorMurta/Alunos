@@ -1,24 +1,43 @@
 h1{
     color: aliceblue;
     background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+text-align: center;
 }   
 h2{
     color: aliceblue;
     background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
 }
 h3{
     color: aliceblue;
     background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }  
 h4{color: aliceblue;
 background-color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
 
 }   
 h5{color: aliceblue;
     background-color: aliceblue;
-
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
 }      
 h6{color: aliceblue;
     background-color: aliceblue;
-
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.marque-container{
+    width: 100;
+    overflow: hidden;
+    white-space:nowrap;{
+        .marquee-contentson
+        display:inable ; 
+    }
+    }
 }
