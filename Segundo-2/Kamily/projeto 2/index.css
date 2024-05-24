@@ -1,0 +1,29 @@
+h1 {
+color:firebrick;
+background-color: black;
+
+
+}
+h2{
+    color:aliceblue;
+    background-color:black;
+}
+h3{
+    color:aliceblue;
+    background-color:black;
+}
+h4{
+    color:green;
+    background-color:black;
+}
+h5{
+    color: red;
+    background-color:black;
+}
+h6{
+    color: yellow;
+    background-color:black;
+}
+a{
+    display: inline;
+}

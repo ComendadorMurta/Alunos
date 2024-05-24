@@ -1,25 +1,69 @@
-
+* {
+  margin: 30px;
+  padding: 0px;
+    }
+    body {
+      background: rgb(183, 209, 183);
+    }
  h1 {
     color:  rgb(120, 240, 120);
     background: black;
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
  }
   h2 {
     color:  rgb(120, 240, 120);
     background: black;
+    font-size: 20px ;
+    font-family: arial;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
   }
   h3 {
     color: rgb(120, 240, 120);
     background: black;
+    font-size:  20px;
+    font-family: arial;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
   }
   h4 {
     color:  rgb(120, 240, 120);
     background:black;
+    font-size:  20px;
+    font-family: arial;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
   }
   h5 {
     color:  rgb(120, 240, 120);
     background: black;
+    font-size:  20px;
+    font-family: arial;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
   }
   h6 {
     color:  rgb(120, 240, 120);
     background: black;
-  }
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+    height: 50px;
+    border-radius:20px;
+      }
+      .marquee-container {
+          width: 100%;
+          overflow: hidden;
+          white-space: nowrap;
+      }
+      .marquee-content {
+        display: inline-block;
+      }
